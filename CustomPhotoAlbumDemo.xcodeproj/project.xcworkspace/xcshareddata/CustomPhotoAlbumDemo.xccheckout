@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1728D6C5-C737-46EF-B8F3-2F9E99CBDB43</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomPhotoAlbumDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>51C1507F0324633E2005B5851DF92C7868077548</key>
+		<string>https://github.com/stefanogoldoni/CustomAlbumDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomPhotoAlbumDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>51C1507F0324633E2005B5851DF92C7868077548</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stefanogoldoni/CustomAlbumDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>51C1507F0324633E2005B5851DF92C7868077548</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>51C1507F0324633E2005B5851DF92C7868077548</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomAlbumDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
